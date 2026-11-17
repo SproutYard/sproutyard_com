@@ -10,6 +10,7 @@ publishes `site/` to GitHub Pages on every push to `main`.
 | `site/index.html` | Home page |
 | `site/contact.js` | Sends the contact form without leaving the page |
 | `site/kids.html` | Kids apps privacy policy (`/kids`) |
+| `site/support.html` | ABC Touch: Alphabet Animals support (`/support`) |
 | `site/mighty-timer.html` | Redirect to Mighty Timer on the App Store |
 | `site/home.html`, `about.html`, `contact.html`, `cart.html` | Redirects for old URLs |
 | `site/404.html` | Not-found page |
