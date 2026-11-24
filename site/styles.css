@@ -157,7 +157,7 @@ p { margin: 0; }
 .policy { max-width: 720px; padding-block: clamp(48px, 8vw, 104px) clamp(72px, 9vw, 120px); }
 .policy h1 { margin-top: 24px; font-size: clamp(44px, 6vw, 80px); line-height: 1; letter-spacing: -0.045em; }
 .policy .body { margin-top: 40px; font-size: 19px; line-height: 1.65; }
-.policy .body p + p, .policy .body p + ul { margin-top: 20px; }
+.policy .body p + p, .policy .body p + ul, .policy .body ul + p { margin-top: 20px; }
 .policy .body ul { margin: 0; padding-left: 1.25em; }
 .policy .body li + li { margin-top: 8px; }
 .policy .updated { margin-top: 20px; font-size: 15px; color: var(--muted); }
